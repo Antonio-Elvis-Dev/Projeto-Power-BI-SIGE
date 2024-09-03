@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Dash Gastos Viagens 2022-2023"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a06be092-4ebb-429c-9fd2-e6609596074b"
+  }
+}
